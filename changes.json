@@ -1,0 +1,35 @@
+{
+    "playlists" : [
+      {
+        "id" : "1",
+        "user_id" : "2",
+        "song_ids" : [
+          "8",
+          "32",
+          "11"
+        ],
+        "operation":"1"
+      },
+      {
+        "id" : "2",
+        "user_id" : "3",
+        "song_ids" : [
+          "6",
+          "8",
+          "11"
+        ],
+        "operation":"2"
+      },
+      {
+        "id" : "4",
+        "user_id" : "3",
+        "song_ids" : [
+          "1",
+          "2",
+          "3"
+        ],
+        "operation":"0"
+     }
+    ] 
+ }
+  
