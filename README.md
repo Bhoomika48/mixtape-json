@@ -22,9 +22,9 @@ node
 Changes are provided through changes.json file and it has similar structure as of mixtape.json except for an additional property "operation" as mentioned above in overview section
 
 ### Content of changes.json file:
-* Add a new playlist; the playlist should contain at least one song - PLAYLIST 4 WAS ADDED
-* Remove a playlist - PLAYLIST 2 WAS REMOVED
-* Add an existing song to an existing playlist - ADDED SONG 11 TO PLAYLIST 1
+* Add a new playlist; the playlist should contain at least one song - playlist 4 was added
+* Remove a playlist - playlist 2 was removed
+* Add an existing song to an existing playlist - added song 11 to playlist 1
 
 ## How to run:
 - Open terminal
