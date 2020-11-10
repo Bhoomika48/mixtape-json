@@ -27,9 +27,9 @@ Changes are provided through changes.json file and it has similar structure as o
 * Add an existing song to an existing playlist - ADDED SONG 11 TO PLAYLIST 1
 
 ## How to run:
-Open terminal
-go to the project location. For me, the project location is /Downloads/mixtape-json/
-run the command: node app.js
+- Open terminal
+- go to the project location. For me, the project location is /Downloads/mixtape-json/
+- run the command: node app.js
 
 ## Result:
 output.json will be created in the same folder
